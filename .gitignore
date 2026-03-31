@@ -1,0 +1,6 @@
+[Aa]bin/
+[Oo]bj/
+*.db
+*.user
+.vs/
+.vscode/
