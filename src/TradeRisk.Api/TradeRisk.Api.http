@@ -1,0 +1,6 @@
+@TradeRisk.Api_HostAddress = http://localhost:5120
+
+GET {{TradeRisk.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

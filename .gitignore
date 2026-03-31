@@ -1,6 +1,9 @@
 [Aa]bin/
 [Oo]bj/
 *.db
+trades.db-*
 *.user
 .vs/
 .vscode/
+bin/
+[Bb]in/
