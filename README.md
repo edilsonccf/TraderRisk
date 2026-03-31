@@ -71,14 +71,14 @@ O design separa as preocupações em camadas, facilitando a testabilidade e a ma
 	]
 
 2.  **Json de Exemplo Testar analyze**:
-[
-  {    
+	[
+	  {    
 
-    "clientId": "40",
-	"value": 1450,
-    "clientSector": "Private"    
-  }  
-]
+		"clientId": "40",
+		"value": 1450,
+		"clientSector": "Private"    
+	  }  
+	]
 
 ## 🧪 Testes de Performance
 O sistema foi validado para processar **100.000 trades** em menos de **500ms**. Para rodar os testes:
